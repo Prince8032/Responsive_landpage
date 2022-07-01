@@ -1,0 +1,785 @@
+@media only screen and (max-width:1211px){
+
+    /* home */
+    /* #home{
+        height: 95;
+    } */
+
+    .text {
+           width: 50%;
+    }
+    .text h1{
+            font-size: 9vw;
+            color: #09ffde;
+            padding: 7px;
+    }
+    .text h1 span{
+        color: white;
+    }
+    .text p{
+        font-size: 2.4vw;
+        padding: 16px;
+    }
+    .logo{
+        width: 50%;
+        padding-left: 30px;
+    }
+    .logo img{
+        display: block;
+        width: 100%;
+        margin: auto;
+    
+    }
+    .btnhome{
+        background: none;
+        font-size: 2vw;
+        border: 1px solid white;
+        border-radius: 5px;
+        padding: 20px 35px;
+        color: white;
+        margin-left: 10px;
+        cursor: pointer;
+        text-decoration: underline;
+    }
+  
+    /* contact */
+
+    #contact{
+        padding: 40px;
+        background-color: #1d2549;
+        /* color: white; */
+    }
+    #contact h1{
+        font-size: 3vw;
+        text-align: center;
+        color: white;
+        margin: 10px;
+    }
+    #sol{
+        padding: 17px;
+    }
+    .sol1{
+        border: 1px solid black;
+        border-radius: 30px;
+        background-color: white;
+        padding: 27px;
+    }
+    .sol1 h2{
+        font-size: 1.6vw;
+        padding: 10px 17px;
+        border-radius: 60px;
+    }
+    .sol1 p{
+        font-size: 1.4vw;
+        padding: 8px;
+        margin: 8px;
+    }
+    .sol11 h2{
+        margin-bottom: 25px;
+    }
+    .sol11 p{
+        font-size: 1.4vw;
+        /* margin-top: 30px; */
+    }
+    .sol1 li{
+        font-size: 1.3vw;
+        padding: 5px;
+    }
+    .lis{
+        margin-bottom: 17px;
+    }
+
+     /* work */
+     #work{
+        padding: 30px;
+    }#work h1{
+        font-size: 3.2vw;
+        color: white;
+        margin: 8px;
+        padding: 18px;
+    }
+    .work_p{
+        padding: 15px;
+    }
+    .banner img{
+        width: 90%;
+    }
+    .bna_logo{
+        width: 60%;
+    }
+    .bna_logo img{
+        width: 100%;
+    }
+    .info{
+        width: 70%;
+    }
+    .info h2{
+        font-size: 2.2vw;
+        padding: 4px 0px;
+    }
+    .info p{
+        padding: 2px;
+        margin: 3px;
+        font-size: 1.3vw;  
+      }
+}
+
+@media only screen and (max-width:1031px){
+
+
+    /* ///////////////////appoitment///////////////////// */
+    #appoiment{
+        padding: 45px;
+        padding-left: 65px;
+    }
+    .img_a img{
+        width: 40%;
+    }
+    
+    .text_a{
+        width: 70%;
+    }
+    .text_a h1{
+        font-size: 7vw;
+    }
+   
+    .btn_a{
+        font-size: 1.3vw;
+        padding: 20px 40px;
+        margin: 10px;
+    }
+
+    /* /////////////////partner////////////// */
+    #partner{
+        padding: 30px;
+    }
+    
+    #partner h1{
+        margin-left: 40px;
+        padding-bottom: 30px;
+    }
+    .part{
+        margin: 15px 40px;
+    }
+    .part img{
+        width: 10vw;
+    }
+    .part p{
+        font-size: 1.5vw;
+        margin: 16px 0px;
+    }
+    .google img
+    {
+        width: 13vw;
+    }
+    .wordpress img{
+        width: 7vw;
+    }
+    .wordpress p{
+        margin: 14px 0px;
+    }
+    .cloud img{
+        width: 12vw;
+        /* height: 170px; */
+    }
+    .mail img{
+        width: 8vw;
+    }
+    .github img{
+       width: 8vw;
+    }
+}
+
+@media only screen and (max-width:864px)
+{
+    /* /////////////work/////////////////// */
+    /* #home{
+        height: 78vh;
+    } */
+    .bna_logo{
+        width: 50%;
+    }
+    #it{
+        padding: 30px;
+    
+    }
+    #it h1{
+        margin: 8px;
+    }
+    .list{
+        padding: 10px;
+    }
+    
+    
+}
+@media only screen and (max-width:824px)
+{
+    /* work//////////////////// */
+    #work{
+        padding: 20px;
+    }#work h1{
+        font-size: 3.2vw;
+        color: white;
+        margin: 6px;
+        padding: 15px;
+    }
+    .work_p{
+        padding: 8px;
+    }
+    .banner img{
+        width: 90%;
+    }
+    .bna_logo{
+        width: 60%;
+    }
+    .bna_logo img{
+        width: 100%;
+    }
+    .info{
+        width: 70%;
+    }
+    .info h2{
+        font-size: 2.2vw;
+        padding: 2px 0px;
+    }
+    .info p{
+        padding: 2px;
+        margin: 2px;
+        font-size: 1.3vw;  
+      }
+}
+
+@media only screen and (max-width:807px)
+{
+    /* ////////////////////appoitment/////////////////////////////// */
+    #appoiment{
+        padding: 40px;
+        padding-left: 60px;
+    }
+    .img_a img{
+        width: 40%;
+    }
+    
+    .text_a{
+        width: 70%;
+    }
+    .text_a h1{
+        font-size: 7vw;
+    }
+   
+    .btn_a{
+        font-size: 1.3vw;
+        padding: 20px 35px;
+        margin: 10px;
+    }
+
+    /* ////////////////////sservices/////////////////////////// */
+    #services{
+        padding: 20px;
+    }
+    
+    #services h1{
+         font-size: 6vw;
+         margin-left: 40px;
+            }
+    .serv{
+        margin: 30px;
+    }     
+}
+
+@media only screen and (max-width:627px){
+ 
+    /* ////////////////////partner//////////////////// */
+    #partner{
+        padding: 20px;
+    }
+    
+    #partner h1{
+        margin-left: 30px;
+        padding-bottom: 20px;
+    }
+    .part{
+        margin: 15px 30px;
+    }
+    .part img{
+        width: 10vw;
+    }
+    .part p{
+        font-size: 1.5vw;
+        margin: 14px 0px;
+    }
+    .google img
+    {
+        width: 13vw;
+    }
+    .wordpress img{
+        width: 7vw;
+    }
+    .wordpress p{
+        margin: 14px 0px;
+    }
+
+    /* ////////////////////////////contact///////////////////////////// */
+
+    #contact{
+        padding: 30px;
+    }
+    #contact h1{
+        font-size: 3vw;
+        text-align: center;
+        color: white;
+        margin: 10px;
+    }
+    #sol{
+        padding: 15px;
+    }
+    .sol1{
+        border: 1px solid black;
+        border-radius: 30px;
+        background-color: white;
+        padding: 22px;
+    }
+    .sol1 h2{
+        font-size: 1.6vw;
+        padding: 10px 15px;
+        border-radius: 60px;
+    }
+    .sol1 p{
+        font-size: 1.4vw;
+        padding: 6px;
+        margin: 6px;
+    }
+    .sol11 h2{
+        margin-bottom: 20px;
+    }
+    .sol11 p{
+        font-size: 1.4vw;
+        /* margin-top: 30px; */
+    }
+    .sol1 li{
+        font-size: 1.3vw;
+        padding: 3px;
+    }
+    .lis{
+        margin-bottom: 15px;
+    }    
+
+    /* ////////////////////////home//////////////////// */
+    /* #home{
+        height: 80vh;
+    } */
+
+    .text h1 span{
+        color: white;
+    }
+    .text p{
+        font-size: 2.4vw;
+        padding: 15px;
+    }
+    .logo{
+        width: 50%;
+        padding-left: 20px;
+    }
+    .logo img{
+        display: block;
+        width: 100%;
+        margin: auto;
+    
+    }
+    .btnhome{
+        font-size: 2.4vw;
+      
+        padding: 15px 25px;
+        margin-left: 15px;
+    }
+  
+}
+
+@media only screen and (max-width:582px)
+{
+     /* ////////////////////////////services/////////////////// */
+
+     #services{
+        padding: 10px;
+    }
+    .serv{
+        margin: 20px;
+    }
+
+    /* ////////////////////////////appoiment */
+    #appoiment{
+        padding: 20px;
+        padding-left: 30px;
+    }
+    .img_a img{
+        width: 40%;
+    }
+    
+    .text_a{
+        width: 70%;
+    }
+    .text_a h1{
+        font-size: 7vw;
+    }
+   
+    .btn_a{
+        font-size: 1.6vw;
+        padding: 15px 25px;
+        margin: 8px;
+    }
+      /* /////////////work////////////////// */
+      #work{
+        padding: 17px;
+    }#work h1{
+        font-size: 4.2vw;
+        color: white;
+        margin: 5px;
+        padding: 13px;
+    }
+    .work_p{
+        padding: 5px;
+    }
+    .banner img{
+        width: 90%;
+    }
+    .bna_logo{
+        width: 90%;
+    }
+    .bna_logo img{
+        width: 100%;
+    }
+    .info{
+        width: 80%;
+    }
+    .info h2{
+        font-size: 2.2vw;
+        padding: 2px 0px;
+    }
+    .info p{
+        padding: 1px;
+        margin:1px;
+        font-size: 1.3vw;  
+      }
+
+      /* ////////////////////////solution///////////////////////// */
+
+      #contact{
+        padding: 30px;
+    }
+    #contact h1{
+        font-size: 4.3vw;
+        text-align: center;
+        color: white;
+        margin: 10px;
+    }
+    .sol1 h2{
+        font-size: 2.2vw;
+        padding: 10px 15px;
+        border-radius: 60px;
+    }
+    .sol1 p{
+        font-size: 2vw;
+        padding: 6px;
+        margin: 6px;
+    }
+    .sol11 h2{
+        margin-bottom: 20px;
+    }
+    .sol11 p{
+        font-size: 2vw;
+        /* margin-top: 30px; */
+    }
+    .sol1 li{
+        font-size: 1.89vw;
+        padding: 3px;
+    }
+
+    /* /////////////////////IT/////////////////////// */
+
+    #it{
+        padding: 20px;
+    }
+    #it h1{
+        font-size: 5.2vw;
+        margin: 10px;
+    }
+    .list{
+        padding: 20px;
+    }
+    .list li{
+        font-size: 2.7vw;
+    }
+}
+
+@media only screen and (max-width:504px){
+     
+    /* ////////////////////////////appoitment//////////////////////// */
+    #appoiment{
+        padding: 20px;
+        padding-left: 30px;
+    }
+    .img_a img{
+        width: 40%;
+    }
+    
+    .text_a{
+        width: 70%;
+    }
+    .text_a h1{
+        font-size: 7vw;
+    }
+   
+    .btn_a{
+        font-size: 2.4vw;
+        padding: 15px 25px;
+        margin: 10px 5px;
+    }
+
+    /* /////////////////////////////footer//////////////////////// */
+
+    footer{
+        background-color: black;
+        padding: 6px;
+        display: flex;
+    }
+    footer p{
+        font-size: 2.2vw;
+        padding: 10px;
+    }
+    .btn_f{
+     
+        font-size: 2vw;
+        border-radius: 5px;
+        padding: 7px;
+        color: white;
+        margin-right: 20px;
+    
+    }
+    .btn_f:hover{
+        background-color:#1d2549;
+    }
+    /* ////////////////////partner//////////////////// */
+    #partner{
+        padding: 20px;
+    }
+    
+    #partner h1{
+        margin-left: 25px;
+        padding-bottom: 20px;
+    }
+    .part{
+        margin: 12px 20px;
+    }
+    .part img{
+        width: 12vw;
+    }
+    .part p{
+        font-size: 2.2vw;
+        margin: 11px 0px;
+    }
+    .google img
+    {
+        width: 14vw;
+    }
+    .wordpress img{
+        width: 8vw;
+    }
+    .wordpress p{
+        margin: 10px 0px;
+    }
+
+        /* ////////////////////sservices/////////////////////////// */
+        #services{
+            padding: 20px;
+        }
+        
+        #services h1{
+             font-size: 7vw;
+             margin-left: 30px;
+                }
+        .serv{
+            margin: 20px 10px;
+        }    
+        .serv img{
+            width: 22vw;
+        }
+        .serv p{
+            font-size: 2.2vw;
+            color: white;
+            text-align: center;
+            margin: 15px;
+        }
+  
+        .content img{
+            width: 20vw;
+        }
+        /* ////////////////////////solution///////////////////////// */
+
+      #contact{
+        padding: 20px;
+    }
+    #contact h1{
+        font-size: 5.3vw;
+       
+        margin: 10px;
+    }
+    .sol1 h2{
+        font-size: 2.6vw;
+        padding: 10px 15px;
+        border-radius: 60px;
+    }
+    .sol1 p{
+        font-size: 2.4vw;
+        padding: 4px;
+        margin: 4px;
+    }
+    .sol11 h2{
+        margin-bottom: 16px;
+    }
+    .sol11 p{
+        font-size: 2.2vw;
+        /* margin-top: 30px; */
+    }
+    .sol1 li{
+        font-size: 2vw;
+        padding: 3px;
+    }
+
+    #sol{
+        padding: 15px 0px;
+    }
+    .sol1{
+        padding: 20px;
+    }
+
+
+    /* ////////////////////////home */
+    /* #home {
+        height: 60vh;
+    } */
+    /* /////////////work////////////////// */
+    /* ////////////////////////////work/////////////////////////// */
+    #work{
+        padding: 17px;
+    }#work h1{
+        font-size: 5.2vw;
+        color: white;
+        margin: 5px;
+        padding: 13px;
+    }
+    .work_p{
+        padding: 5px;
+    }
+    .banner img{
+        width: 100%;
+    }
+    .bna_logo{
+        width: 100%;
+    }
+    .bna_logo img{
+        width: 100%;
+    }
+    .info{
+        width: 200%;
+    }
+    .info h2{
+        font-size: 2.2vw;
+        padding: 3px 0px;
+    }
+    .info p{
+        padding: 1px;
+        margin:1px;
+        font-size: 1.4vw;  
+      }
+}
+
+
+@media only screen and (max-width:388px){
+
+   /* ////////////////////sservices/////////////////////////// */
+   #services{
+    padding: 20px;
+}
+
+#services h1{
+     font-size: 7vw;
+     margin-left: 20px;
+        }
+.serv{
+    margin: 20px 10px;
+}    
+.serv img{
+    width: 20vw;
+}
+.serv p{
+    font-size: 2.4vw;
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+
+.content img{
+    width: 18vw;
+}
+ /* ////////////////////partner//////////////////// */
+ #partner{
+    padding: 20px;
+}
+
+#partner h1{
+    margin-left: 20px;
+    padding-bottom: 20px;
+}
+.part{
+    margin: 10px 15px;
+}
+.part img{
+    width: 12vw;
+}
+.part p{
+    font-size: 2.4vw;
+    margin: 11px 0px;
+}
+.google img
+{
+    width: 14vw;
+}
+.wordpress img{
+    width: 8vw;
+}
+.wordpress p{
+    margin: 10px 0px;
+}
+
+/* ////////////////////////home//////////////////// */
+/* #home{
+    height: 50vh;
+} */
+
+
+
+.text h1 span{
+    color: white;
+}
+.text p{
+    font-size: 2.6vw;
+    padding: 6px;
+}
+.logo{
+    width: 50%;
+    padding-left: 7px;
+}
+.logo img{
+    display: block;
+    width: 100%;
+    margin: auto;
+
+}
+.btnhome{
+    font-size: 2.6vw;
+  
+    padding: 10px 15px;
+    margin-left: 5px;
+}
+}
+
